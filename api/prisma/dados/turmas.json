@@ -1,0 +1,38 @@
+[
+    {
+        "nome": "PFE Turma01",
+        "professorId": 1
+    },
+    {
+        "nome": "PFE Turma02",
+        "professorId": 1
+    },
+    {
+        "nome": "PFE Turma03",
+        "professorId": 1
+    },
+    {
+        "nome": "PDM Turma01",
+        "professorId": 2
+    },
+    {
+        "nome": "PDM Turma02",
+        "professorId": 2
+    },
+    {
+        "nome": "PDM Turma02",
+        "professorId": 2
+    },
+    {
+        "nome": "PSOF Turma01",
+        "professorId": 3
+    },
+    {
+        "nome": "PSOF Turma01",
+        "professorId": 3
+    },
+    {
+        "nome": "PSOF Turma01",
+        "professorId": 3
+    }
+]

@@ -1,0 +1,15 @@
+require('dotenv').config();
+const express = require('express');
+const cors = require('cors');
+
+const PORT = process.env.PORT || 3000;
+
+const rotes = require('./src/routes');
+
+const app = express();
+app.use(cors());
+app.use(express.json());
+app.use(rotes);
+
+
+app.listen(PORT, () => { console.log("API Escola destão de turmas em http://10.87.202.147:" + PORT) });

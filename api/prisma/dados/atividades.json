@@ -1,0 +1,38 @@
+[
+    {
+        "descricao": "Atividade 1 Estruturação de página web com HTML semântico",
+        "turmaId": 1
+    },
+    {
+        "descricao": "Atividade 2 Estilização de layout responsivo com CSS Flexbox e Grid",
+        "turmaId": 2
+    },
+    {
+        "descricao": "Atividade 3 Interatividade com JavaScript: botão de tema claro/escuro",
+        "turmaId": 3
+    },
+    {
+        "descricao": "Atividade 4 Criação de um portfólio pessoal com HTML, CSS e JavaScript",
+        "turmaId": 4
+    },
+    {
+        "descricao": "Atividade 1 Interface de login em aplicativo mobile com React Native",
+        "turmaId": 5
+    },
+    {
+        "descricao": "Atividade 2 Tela de listagem de produtos consumindo API FakeStore",
+        "turmaId": 6
+    },
+    {
+        "descricao": "Atividade 3 Navegação entre telas com React Navigation",
+        "turmaId": 7
+    },
+    {
+        "descricao": "Atividade 4 Integração com sensor de câmera no aplicativo",
+        "turmaId": 8
+    },
+    {
+        "descricao": "Atividade 1 Elaboração do escopo de um projeto web completo",
+        "turmaId": 9
+    }
+]
