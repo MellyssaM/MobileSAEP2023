@@ -15,15 +15,15 @@ Agora voce pode testar o Front-End
 ## Wireframes
 
 ## Login dando erro
-![](./docs/loginErro.png)
+![](../docs/loginErro.png)
 
 ## Pagina home professor
-![](./docs/home.png)
+![](../docs/home.png)
 
 ## Cadastrar turmas
-![](./docs/novaTurma.png)
+![](../docs/novaTurma.png)
 
 ## Cadastrar atividades
-![](./docs/novaAtvs.png)
+![](../docs/novaAtvs.png)
 
 
