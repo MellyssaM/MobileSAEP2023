@@ -1,4 +1,4 @@
-# Mobile Escola 
+# Escola Api Mobile
 
 ## Tecnologias
 - Node.js
@@ -7,33 +7,40 @@
 - React.js
 - Vite
 
-## Executar o projeto localmente
+## Tutorial para executar API e Web
 
-- Clone o repositório
-- Configure o banco de dados MySQL
-- Adicione o arquivo `.env` na raiz do projeto com a seguinte configuração:
-```bash
-DATABASE_URL="mysql://root@localhost:3306/escola"
-```
-- Certifique-se de que o MySQL está em execução (usando XAMPP)
-- acesse a pasta do front end `./web` instale as dependências e inicie o servidor de desenvolvimento
+- Clone o repositorio e apos clonar entre na pasta `./web` e cole o seguintes comandos.
+
 ```bash
 cd web
 npm install
 npm run dev
 ```
-Clicar no link localhost para executar http://localhost:5173/
 
-- Agora na area de trabalho quando abrir a pasta escola flutter api no explorer entre na api e abra com git bash e execute
+Apos isso clique no link `http://localhost:5173/`.
+
+- Logo depois desse processo abra outro CMD e entre dentro da pasta `./api` e cole os seguintes comandos.
+
 ```bash
 npm install
 npx prisma migrate dev --name init
 npx nodemon
 ```
 
-## Der
-![der](./docs/der.png)
-## Uml
-![der](./docs/uml.png)
-## Banco de dados
-![der](./docs/bd.png)
+Agora voce pode testar o Back-End e Front-End do Projeto Escola Mobile
+
+## Wireframes e Diagramas
+
+![MerDER](./docs/merxder.png)
+
+## Login dando erro
+![](./docs/loginErro.png)
+
+## Pagina home professor
+![](./docs/home.png)
+
+## Cadastrar turmas
+![](./docs/novaTurma.png)
+
+## Cadastrar atividades
+![](./docs/novaAtvs.png)

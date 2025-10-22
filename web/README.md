@@ -1,16 +1,29 @@
-# Escola - Gestão de atividades
-## Tecnologias
-- React
-- TypeScript
-- Vite
-- Shadcn
-- TailWindCSS
+## Tutorial para executar Web
 
-## Passos para executar
-1. acesse a pasta do front end `./web` instale as dependências e inicie o servidor de desenvolvimento
+- Clone o repositorio e apos clonar entre na pasta `./web` e cole o seguintes comandos.
+
 ```bash
 cd web
 npm install
 npm run dev
 ```
-Clicar no link localhost para executar, semelhante a este: http://localhost:5173/
+
+Apos isso clique no link `http://localhost:5173/`.
+
+Agora voce pode testar o Front-End
+
+## Wireframes
+
+## Login dando erro
+![](./docs/loginErro.png)
+
+## Pagina home professor
+![](./docs/home.png)
+
+## Cadastrar turmas
+![](./docs/novaTurma.png)
+
+## Cadastrar atividades
+![](./docs/novaAtvs.png)
+
+
